@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JeffTheModder
+- 👀 I’m interested in game design and full stack web developing
+- 🌱 I’m currently learning game design!
